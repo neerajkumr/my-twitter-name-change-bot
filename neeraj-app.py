@@ -25,7 +25,7 @@ def follower_count(user):
   emoji_followers = ''.join([emoji_numbers[j] for j in uf_split if j in emoji_numbers.keys()]) 
   return emoji_followers
 
-api = create_api()
+api = create_api() 
 
 def main():
   while True:
