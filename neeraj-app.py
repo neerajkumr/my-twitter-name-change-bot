@@ -34,6 +34,7 @@ def main():
     print(f'Updating Twitter Name : neeraj reddy|{follower_count(user)} Followers')
     print('Waiting to refresh')
     time.sleep(60)
+    
   
   
   
